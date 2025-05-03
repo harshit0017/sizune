@@ -1,0 +1,57 @@
+About the job
+Description
+
+Job Description Summary:
+
+The Director of IT Infrastructure and Services while working under the direction of the Chief Information Officer, is an integral part of the IT leadership team and a key participant in all aspects of planning and management of infrastructure strategies. The incumbent manages and on-premises based Linux and Windows systems, storage services (SAN and NAS), database & Services, email (Office 365) and virtual application and desktop infrastructure and is responsible for participating in the overall IT strategic planning; development of relevant processes, procedures, and documents; managing the change management review process; decision making; and representing IT at campus-level meetings pertinent to Infrastructure Services. As a member of the Leadership team actively participates in envisioning strategic IT direction, goals, and priorities; makes effective and efficient use of resources; sets high, achievable aspirations for services and operations that align with university goals and objectives.
+
+As a leader, demonstrates a commitment to student success that is mission aligned with the university’s vision, values, and priorities. Establishes an ethical and collegial work environment, promoting a collaborative, accountable and inclusive team. Encourages a courageous and resilient solution-oriented environment by participating in new opportunities to further the university's mission. Participates in developing initiatives that further support the campus mission with a service-oriented and catalytic mind set. Strengthens employees by being communicative and a talent builder that develops team attributes, furthering departmental goals.
+
+Responsibilities
+
+Duties and Responsibilities:
+
+Develops, proposes, and manages the annual operating budget and long-range financial plans for, systems, storage, and database technology that accommodates a shift to hybrid infrastructure.
+Develops, proposes, and oversees strategies to blend and on-premises infrastructure consistent with IT strategies and University policy.
+Leads vendor relation efforts; participates in the selection of vendors and the development of methodologies to manage their performance.
+Mentors and advises staff to develop the skills required to support current and future technologies and to adapt to a hybrid /on-premises-based strategy.
+Develop Infrastructure automation in the environment and automated configuration management. Deliver technical architecture design and review using Well-Architected Framework Design efficient, secure, adaptable, scalable, and reliable solutions.
+Perform application portfolio analysis to identify candidate applications and workloads for migration to. Develop architectural patterns, standards and reference architecture for and on-premises services.
+Performs other duties as assigned.
+
+Minimum Qualifications
+
+Equivalent to graduation from an accredited 4-year college or university degree in a job-related field.
+Equivalent to six (6) years of progressively responsible professional/administrative experience required; with three (3) of the six (6) overseeing one or more aspects of technology infrastructure services.
+Experience deploying and managing platform or infrastructure as a service solution including Amazon Web Services or Azure. Experience with Workday, and SQL concepts.
+Experience with ITIL based processes (incident, change, problem, root cause analysis). Experience maintaining or leading teams responsible for windows or Linux server environments. Led or made significant contributions to planning and managing the transition to -based infrastructure preferred. 
+
+Knowledge, Skills, & Abilities
+
+Demonstrated ability and desire to thrive in a proactive, fast-paced environment managing multiple projects and operational issues. Ability to make and implement exemplary applications of information technology to support data centers, systems, and storage services.
+Ability to: lead or make significant contributions to planning and managing the transition to -based infrastructure; lead or make significant contributions to selecting vendors and managing relationships with providers. Knowledge of automation tools, micro-services, containers, IaaS/PaaS/SaaS, and core concepts; and the tools and methods that enable an organization to provide a scalable and secure infrastructure with the capability to provision on-demand access to a blend of and on-premises based resources.
+Strong interpersonal skills and the ability to effectively communicate with a wide range of individuals and constituencies in a diverse community. Strong project management skills with the ability to ensure completion of department initiatives and recommendations. Strong written and oral communication skills; Strong analytical skills and attention to detail.
+Ability to understand and clearly relate to other members of the organization, technical manuals, software specifications and general methods of network operations and security. Ability to apply effective leadership skills to direct multi-department technical staff. Ability to facilitate productive meetings and work successfully in a team-oriented environment.
+Routine contact is required with IT Leads and members of the IT Leadership team. Ability to define problems, collect data, establish facts, and draw valid conclusions with problem root cause analysis. Ability to envision and implement exemplary applications of information technology to support systems, database, and storage services.
+Lead diverse teams to support the operational mission and vision of employers by fostering an ethical, inclusive, and collegial work environment.
+Demonstrated ability to support ongoing improvement through courageous, resilient, and catalytic leadership.
+Lead varying initiatives through a collaborative, service-oriented and communicative approach.
+Demonstrated commitment to employee development, recognition, and accountability to further operational goals.
+
+Employee Status
+
+Regular
+
+Exemption Status
+
+United States of America (Exempt)
+
+Time Type
+
+Full time
+
+Job Shift
+
+Pay Range:
+
+Samuel Merritt University currently provides base salary ranges for all positions-on job advertisements-in the United States based on local requirements. Individual compensation will ultimately be determined based on a variety of relevant factors including but-not limited to qualifications, geographic location, and other relevant skills.

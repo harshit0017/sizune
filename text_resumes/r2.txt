@@ -1,0 +1,78 @@
+SATISH SOMAA
+Certified AWS Solutions Architect| CISM | SAFe Certified Project / Product Manager
+Chicago (Open to relocate) • satish.c.soma@gmail.com• www.linkedin.com/in/satishsoma • (503) 473 6497
+
+Technology Leader (Banking and Financial Services)
+CAREER SUMMARY
+Technology and Product Leader with over 21 years of experience driving the development of innovative digital products, software development, and cloud-native solutions in the banking and financial services sector. Expertise in modernizing legacy systems, enabling data-driven product development data management, and leveraging AI/ML to enhance product offerings and operational performance, driving improved user experiences and increased revenue.
+Skilled in leading large-scale technology and software programs ($47M), driving data analytics, product development, Agile (SAFe) frameworks, and DevOps adoption across large teams (78+).
+Key highlights of my career include:
+Spearheaded Capital One's Card core modernization, migrating legacy systems (TSYS, Fiserv, Infrastructure) to cloud platforms. Migrated 60% of legacy card functions, resulting in a $10M revenue boost.
+Led the full product lifecycle for credit card products at Capital One Financial Services, driving the development, enhancement, and maintenance of customer-facing applications for retail partners from onboarding to product exit.
+Led Gen-AI development and Integrations at Capital One Financial Services for enhanced offer personalization and risk prediction, leveraging millions of credit card transactions and behavioral data, improving customer profiling accuracy, and enabling real-time credit decisions through API integration.
+Launched an online credit card application portal, ensuring secure data collection and integrating backend tools for streamlined internal processing of customer data.
+Spearheaded the design and implementation of scalable data pipelines and management systems across nine core banking functions at CapitalOne, streamlining transaction data storage and retrieval by architecting robust data pipelines transforming vast unstructured data into highly organized, structured formats, improving data accessibility and operational efficiency across organizations.
+Developed and enforced data governance policies at Wells Fargo, BNP Paribas, and CapitalOne, ensuring compliance with PCI, DSS, and SOX regulations, reducing data security incidents, and enabling seamless cross-border data handling.
+PROFESSIONAL EXPERIENCE
+Cognizant (Capital One Financial Services), Chicago, IL						       (Jun 2020 - Present)	
+Director of Application Modernization and Development
+Reporting to the SVP of Card Services, spearheaded Cards Product roadmaps, driving efforts in Application Development, Modernization, and Migration initiatives. Drove modernization of Capital One Retail Partnership Cards Platform Programs for Retail customers like Walmart, Bass Pro Shops, Cabela’s, Williams Sonoma, etc. Drove Card Business’s core infrastructure transition from mainframes to modern architecture with API-driven services and microservices.
+Led a $47M application development and technology infrastructure modernization portfolio. Oversaw budgets ranging from $10M to $65M.
+Drove the development of the entire product lifecycle for credit card products, overseeing application development, enhancement, and maintenance. Achieved a 20% increase in application delivery efficiency.
+Led Capital One's Card core modernization. Drove a $10M revenue boost by enabling faster product launches. Implemented microservices architecture, containerization (Docker, ECS, EKS), integration and management of payment gateway services, and serverless computing (AWS Lambda) to streamline deployment. Drove optimization efforts to reduce AWS cloud costs by 30%.
+Migrated Card data across platforms, ensuring precise mapping to new systems by coordinating efforts with banks, merchants, interchange networks, Fiserv, TSYS, credit bureaus, and third-party vendors. Transitioned millions of existing accounts, leading dedicated teams for issue triage and resolution.
+Built an in-house large language model (LLM) by leveraging millions of credit card transactions and behavioral data, improving customer profiling accuracy and enabling real-time credit decisions through various API integrations, enhancing offer personalization and risk prediction.
+Developed and Enhanced Digital Wallet Capabilities, integrating and managing wallet platforms such as Apple Pay. Led backend integrations, security protocols, and user authentication, ensuring secure tokenization processes and seamless user experiences, facilitating contactless payments, and driving increased customer adoption rates.
+Developed and implemented a scalable and automated Data Analytics Platform across core banking functions using AWS (S3, EC2, Redshift) and Apache Spark for ETL pipelines, integrating data from multiple retail partners and diverse sources, resulting in near real-time insights, enhanced reporting, and improved decision-making through predictive modeling and data visualization (Tableau, Power BI) for credit risk behavior and customer behavior analysis.
+Developed and implemented risk mitigation strategies to integrate existing mainframe systems and legacy applications. Utilized multi-service deployment, blue-green deployment, canary deployment, and A/B testing to mitigate software and product-level risks effectively.
+Drove the adoption of DevOps and Agile practices, transitioning project and program management teams. Boosted deployment frequency by 60%, achieved a 20% improvement in overall metrics, including MTTR, and reduced customer-reported incidents. 
+Led an Agile team of 65, expanding from 50 and mentoring senior managers.
+Security and Compliance: Implemented robust security measures that were compliant with PCI DSS, ADA, and SOX. Established authentication, encryption, and monitoring for regulatory adherence.
+Capgemini (Discover Financial Services), Chicago, IL						     (Jun 2018 - Jun 2020)	
+Director of IT Applications
+Reporting to VP, Cards & Payments implemented business solutions influencing cross-functional teams. Utilized Lean-Agile practices to address longstanding issues across 9 card functions within 32 different teams.
+Developed software solutions for automated BIN range allocation system utilizing batch processing to dynamically allocate BIN numbers, cutting overall organizational BIN usage from 85% to 42%. 
+Implemented error-checking algorithms and real-time monitoring, reducing manual intervention and improving accuracy by 50%.
+Implemented automated processes for BIN range allocation to reduce manual errors.
+Advanced Agile transformation across Discover’s card functions by implementing SAFe standards.
+Unified diverse business and technical requirements into a cohesive roadmap, fostering stakeholder consensus. Collaborated with engineers and designers to deliver high-quality solutions and summarized PI objectives.
+Ensured compliance with the latest regulatory requirements for card brand regulations, including Visa, MasterCard, and American Express.
+Capgemini (BNP Paribas), Chicago IL							       	    (Jan 2017 – Jun 2018)	
+Director of Program & Product Management
+Reporting to the Senior Vice President of Banking and Cards, led a team (60+) to establish and lead BNP Paribas's Commercial Cards Product, Application, and Quality Assurance teams and executed the migration of Commercial Cards from First Hawaiian Bank.
+Oversaw a budget of $65M and managed the evaluation of card products (Fiserv, TSYS, ADS, etc.)
+Led the digital transformation of business functions and mapped technical solutions, enhancing new products for Commercial Card applications. Managed stakeholders, design, and implementation for the initiative.
+TSYS Integration: Established a new instance of TSYS TS2 and developed an in-house architecture.
+Streamlined card issuance by integrating TS2 with card printing vendors, personalization bureaus, fulfillment partners, and payment processing providers across various channels.
+Implemented security measures, including MFA, encryption protocols, and continuous monitoring tools like AppDynamics, to ensure compliance with industry standards such as PCI DSS, ADA, and SOX.
+Ensured ISO 8583 messaging standards for financial transaction card-originated messages, ensuring seamless communication between payment systems and minimizing transaction failures.
+Ensured and Implemented EMV-compliant systems for secure card issuance and processing, including migrating from magnetic stripe to chip-and-PIN technology, reducing the risk of fraud.
+Set up automation testing, implemented Version Control and CI/CD, deployed Confluence, integrated SonarQube, and adopted Containerization and Orchestration for enhanced scalability and reliability. 
+Led the development of a dedicated web portal enabling customers to apply for credit cards online. Integrated backend tools for internal staff to access application data, review profiles, and efficiently process credit card applications.
+Introduced a Credit Card Account Management System and provided internal staff with tools to assist customers, address billing disputes, and perform administrative tasks related to credit card accounts.
+Capgemini (Wells Fargo Vendor Finance), Chicago, IL						   (Jan 2016 – Dec 2016)	
+Senior Manager
+Reporting to the Head of Vendor Finance managed a $15M budget, and led a 35-member integrations team for the GE-Wells Fargo merger. Spearheaded Application Integration and rationalization efforts for Commercial Distribution Finance and Vendor Finance business units, achieving substantial cost savings and operational efficiency improvements.
+Led the completion of the lift and shift of legacy GE products to Wells Fargo platforms, meeting user expectations. Achieved 100% data migration accuracy, 0% downtime, and a 98% UAT pass rate.
+Achieved a $23M annual cost reduction by streamlining IT infrastructure, consolidating redundant systems, and optimizing operational processes. 
+Implemented RPA, Service Virtualization, QA Automation, and microservices integration across pipelines.
+Integrated customer data, product details, transaction data, asset, Dealer & OEM information.
+Led a team of 78 members, including four direct reports. Expanded the team with 20 software engineers and project managers. Implemented SAFe, Kanban, and Waterfall methodologies within the team.
+Achieved 100% project completion within the timeline and sped up project timelines by 10%..
+PREVIOUS PROFESSIONAL EXPERIENCE
+IT Manager - Capgemini (HSBC North America Change Delivery), Portland, OR (March 2008 – May 2012)
+Manager - Mastercard & Visa Compliance - Capgemini (HSBC, Global Cards) (June 2008 – September 2008)
+Release Manager - HSBC Retail Services - Capgemini (HSBC, North America) (June 2007 – June 2008)
+Project Lead - Front End Team - Kanbay (HSBC Cards Services), Chicago (April 2006 – June 2007) 
+Team Lead - Integration, Kanbay (Household Bank), Florida (April 2005 – June 2006)
+Senior Analyst - Kanbay (Household Bank), Florida (Sep 2003 – April 2005)
+Systems Analyst - National Information Center (Aug 2001 – Sep 2003)
+EDUCATION
+Master of Science (Computer Science)
+Bachelor of Science (Computer Science)
+CERTIFICATIONS
+Certified AWS Solutions Architect
+Certified Information Security Manager (CISM) from ISACA
+SAFe Certified Project / Product Manager
+Certified Professional Scrum Master Level 1 (PSM1) by Scrum.org
+Certified Engagement Manager Level 2 by Capgemini University

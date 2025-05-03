@@ -1,0 +1,104 @@
+Alignment Priority Instruction:
+Primary Input:
+You are provided with:
+
+(1) The candidate’s resume
+
+(2) The job description (JD)
+
+(3) A detailed Alignment and Reasoning Document connecting the two.
+
+Instruction:
+
+Base the email primarily on the Alignment and Reasoning Document.
+
+Use the resume and JD only for supplementary context if directly relevant additional examples are needed.
+
+Do not invent new skills, achievements, or experiences beyond what is confirmed in the Alignment document or Resume.
+
+Your goal is to create a mail that mirrors the candidate’s match to the company's mission, strategy, and needs, using factual, impactful examples.
+
+Objective:
+Write a confident, high-impact email that positions the candidate as a strategic growth partner, fully aligned with the company's next-stage ambitions.
+The email must immediately connect the candidate’s expertise to the company's mission, strategic goals, and growth plans, using tangible examples, business-driven language, and outcome-first framing.
+
+The tone should be executive, warm, future-focused, and outcome-oriented — never robotic, generic, or exaggerated.
+
+Detailed Instructions:
+1. Hook and Personalization:
+Start with a bold, engaging hook that ties the candidate’s interest to the company’s mission and ambition (e.g., "I came across the [Role Title] at [Company] and was immediately drawn to your mission of [specific mission/goal].").
+
+Mention role title and company name within the first 1–2 sentences.
+
+Mirror the company’s ambition using a keyword or strategic phrase from the JD or Company profile (e.g., "scaling to IPO", "AI-driven ecommerce transformation").
+
+2. Role Interest and Strategic Alignment:
+Express strong interest in the role — frame it through how the candidate’s expertise will drive the company’s strategic goals.
+
+Mention career background and aspirations that match the company's future growth direction.
+
+3. Strategic Background Fit:
+Write a tight, energetic paragraph summarizing industries, products, platforms, and leadership experiences.
+
+Position the candidate as already operating at the future scale the company is aiming to achieve (e.g., IPO readiness, enterprise scaling).
+
+4. Impact-Driven Highlights Section:
+List 5–7 high-impact, business-focused achievements using bullet points.
+
+Each bullet must:
+
+Start with a bolded skill or focus area (e.g., AI-Powered CX Automation:)
+
+Describe a project, specific result, and business impact, using quantifiable metrics wherever possible (e.g., "reduced cloud costs by 25%", "improved user engagement by 30%").
+
+Tie the achievement directly to a key company need or future goal (e.g., scaling, automation, ARR growth).
+
+5. Vision Alignment:
+Add a strong alignment paragraph linking the candidate’s passions, leadership style, and aspirations to the company’s 2–3 year vision (e.g., "expanding into multi-product SaaS leadership", "scaling AI sales platforms", "preparing for IPO").
+
+6. Action Statement:
+Confirm that the candidate has already applied through the portal (if applicable).
+
+Express eagerness to have a conversation about how they can drive the company's goals.
+
+Politely request forwarding the email if the recipient is not the correct contact.
+
+7. Closing:
+End with a polished, confident closing (e.g., Warm regards, Best regards).
+
+Include candidate’s full name, email address, and phone number.
+
+Tone and Style Guidelines:
+Executive voice: Write like a peer helping a peer, not a subordinate asking for a chance.
+
+Business-first framing: Focus on outcomes, scale, growth — not just duties and responsibilities.
+
+Concise and dynamic: Keep paragraphs 2–4 lines max — no walls of text.
+
+Impact and metrics: Where possible, show specific metrics (e.g., 500M bookings/day, 30% revenue growth, 25% cost savings).
+
+Warm and human: Stay approachable — avoid stiff corporate jargon or buzzword stuffing.
+
+Future-focused energy: Show excitement about helping the company achieve their future goals.
+
+Output Format:
+Subject: (Leave empty — will be added separately.)
+
+Body Content in Order:
+
+Hook + Greeting
+
+Role Interest + Strategic Fit
+
+Background Summary
+
+Bulleted Impact Achievements
+
+Vision Alignment
+
+Action Statement
+
+Closing
+
+Signature (Name, Email, Phone)
+

@@ -1,0 +1,42 @@
+About the job
+Netflix is one of the world's leading entertainment services, with 283 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.
+
+The Platform Networking organization plays a pivotal role in how Netflix’s Cloud Infrastructure operates to provide a safe and seamless streaming experience. The Cloud Gateway team at Netflix acts as the entry point for all traffic entering our cloud infrastructure. We play a vital role in business initiatives like Live, Ads, Gaming, M&A, and Security in collaboration with partner teams. Our solutions manage traffic at scale across the Netflix ecosystem, simplifying resiliency, security, routing, and observability.
+
+We are seeking an experienced engineering leader who will lead and grow a diverse team of talented engineers driving the evolution of our edge services at Netflix. You will partner with engineering teams across all of Netflix, including device teams, service owners and platform partners, to deliver business results and evolve our Platform.
+
+If you’re looking for a deeply technical and highly dynamic opportunity that will have an outsized impact on the future of Netflix, we’d love to talk to you!
+
+What You Will Do
+
+Drive the vision and strategy on how to evolve our Network Platform solutions
+Build, scale, and mentor a cohesive team of amazing engineers
+Form strong cross-functional partnerships to achieve alignment with stakeholders and ensure our solutions meet their needs, while maintaining our focus on reliability, resiliency, security
+Balance competing priorities across multiple cross-functional stakeholders and programs
+
+What We Are Looking For
+
+Experience in building and operating high-scale tier-0 distributed cloud infrastructure
+Deep understanding of Layer 4 to Layer 7 networking solutions 
+Technical acumen with the ability to go deep as needed to provide input and facilitate sound decision-making
+Proven track record of timely execution, maintaining engineering quality, building trust with stakeholders, and managing competing priorities
+Customer obsession and a product mindset to understand business and customer needs, delivering results and creating a tight feedback loop
+Strategic thinker with the ability to balance short term execution and longer-term vision
+Strong written and verbal communication skills
+
+Check out our blog posts for more context on the work we drive: 
+
+Evolution of Edge @Netflix
+Securing Netflix studios at scale 
+Curbing connection churn in Zuul
+Scaling Push Messaging for Millions of Netflix Devices
+
+Our compensation structure consists solely of an annual salary; we do not have bonuses. You choose each year how much of your compensation you want in salary versus stock options. To determine your personal top of market compensation, we rely on market indicators and consider your specific job family, background, skills, and experience to determine your compensation in the market range. The range for this role is $190,000 - $920,000.
+
+Netflix provides comprehensive benefits including Health Plans, Mental Health support, a 401(k) Retirement Plan with employer match, Stock Option Program, Disability Programs, Health Savings and Flexible Spending Accounts, Family-forming benefits, and Life and Serious Injury Benefits. We also offer paid leave of absence programs. Full-time hourly employees accrue 35 days annually for paid time off to be used for vacation, holidays, and sick paid time off. Full-time salaried employees are immediately entitled to flexible time off. See more detail about our Benefits here.
+
+Inclusion is a Netflix value and we strive to host a meaningful interview experience for all candidates. If you want an accommodation/adjustment for a disability or any other reason during the hiring process, please send a request to your recruiting partner.
+
+We are an equal-opportunity employer and celebrate diversity, recognizing that diversity builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, ancestry, national origin, caste, sex, sexual orientation, gender, gender identity or expression, age, disability, medical condition, pregnancy, genetic makeup, marital status, or military service.
+
+Job is open for no less than 7 days and will be removed when the position is filled.

@@ -1,0 +1,48 @@
+About the job
+Job Description:
+
+Position Overview
+
+The primary responsibility of the Executive Director – Cloud Engineering is to direct and manage the assigned functions, which include identifying and analyzing the enterprise’s business drivers then aligning technology strategy to support them. The Executive Director – Cloud Engineering is also responsible for creating, enhancing, reviewing and updating the product technology roadmaps and plans annually, defining strategies, efficiency efforts, business processes, and more while synthesizing them to develop a broad Cloud Infrastructure strategy. The incumbent will be responsible for analyzing the technology industry and market trends to determine the potential impact on the enterprise and provide input into selecting the appropriate technologies for the organization. This role leads the design, implementation, and operation of cloud engineering teams across Platform, Site Reliability Engineering, and Data Infrastructure Engineering.
+
+All duties are to be performed in accordance with Company and departmental policies, practices, and procedures. All Company Team Members are expected to conduct and carry themselves in a professional manner at all times. Team Members are required to observe the Company’s standards, work requirements and rules of conduct.
+
+Essential Duties & Responsibilities
+
+Lead and manage various teams across the Site Reliability Engineering (SRE), Cloud Platform Engineering, and Data Infrastructure Engineering disciplines, providing mentorship, guidance, and performance evaluations.
+Manage department responsibilities including hiring, retaining, directing, termination, training and succession planning.
+Lead and work with different key stakeholders on annual testing with internal and external auditors.
+Manage contracts with vendors (e.g. development platforms, data platforms, cloud management platforms) and software licenses.
+Provide backup leadership and direction for cloud platform gaming systems.
+Define, maintain, and update policies and procedures for effective cloud operations management.
+Develop processes and make recommendations for process improvement.
+Exercise proactive cloud operations management; anticipating industry changes and the impact on budgets and vendor negotiations.
+Assess software license posture and make recommendations to leadership on contract renewals and license expenditure.
+Create, enhance, review and update cloud technology roadmaps and plans annually, defining strategies, efficiency efforts, business processes, and more while synthesizing them to develop a broad system strategy.
+Analyze technology industry and market trends to determine the potential impact on the enterprise and provide input into selecting the appropriate technologies for the organization as a whole.
+Integrate business and technology strategy to further organization goals and market competitiveness taking into account near term and long-term business drivers.
+Participate in strategic projects giving guidance, direction, and ensuring overall fit with digital gaming strategy and direction. 
+Complete analysis of key decisions within projects including impact on systems, costs, business processes, timelines and other key variables.
+Develop a practice to determine, approve and manage preferred technologies. Maintain a list of approved technologies. Guide the organization to standard technologies or create new standards as development needs arise. Complete unbiased analysis of technical options and lead the support and adoption of standards in the organization.
+Develop presentations and communication strategies to ensure cloud technology strategies are conveyed and supported throughout the organization. Build support and key relationships to allow for cross company buy-in of ideas and initiatives.
+Build and maintain a strong team in areas of accountability, collaboration, stewardship, technology, and business interface.
+Perform job duties in a safe manner.
+Attend work as scheduled on a consistent and regular basis.
+Perform other related duties as assigned.
+
+
+Minimum Qualifications
+
+At least 21 years of age.
+Proof of authorization to work in the United States.
+Bachelor's degree in Computer Science, IT/Engineering or a related field.
+Advanced degree preferred.
+Must be able to obtain and maintain any certification or license as required by law or policy. 
+7 years of IT and business/industry work experience in a number of the following areas: architecture design & deployment, project management, software development, systems lifecycle management and cloud infrastructure planning and operations. Combined experience preferred to be based on hospitality and gaming background.
+Proven success in strategic management and leadership skills.
+Demonstrated experience in delivering/enabling highly available, scalable and secure enterprise deployments with large-scale experience in delivering applications within a cloud/SAAS/multi-tenancy environment.
+Prior senior level experience, including leading the delivery of large-scale systems implementations. Business consulting and industry best practice consulting.
+Demonstrated excellent planning and organizational skills with an established track record of positively influencing change.
+Ability to travel domestically and internationally.
+Strong interpersonal skills with the ability to communicate effectively with guests and other Team Members of different backgrounds and levels of experience. 
+Must be able to work varied shifts, including nights, weekends and holidays.

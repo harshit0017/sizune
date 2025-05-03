@@ -1,0 +1,57 @@
+	
+RAMESH MISHRA
+San Jose, CA, 95138 | ramesh.iitv@gmail.com | linkedin.com/in/ramesh-mishra | 412-414-1210
+
+CAREER SUMMARY
+Engineering Executive with 20+ years of experience, leading recent AI-driven network solutions and automation initiatives. Expertise in Software Defined Networking (SDN), Zero Trust Network Architecture (ZTNA), and Cloud Technologies, driving secure, scalable solutions through large-scale SD-Access and Zero Trust deployments.
+Pivotal in defining a controller strategy for Cisco to help build the infrastructure and microservices-based app stack, expanding Cisco’s presence in the SDN space in the last decade.
+Possess deep technical expertise (holding multiple patents/publications in Software-Defined Networks and their architecture) and leading large (150+) global engineering organizations in Agile Environments. 
+A few highlights of my career include
+Led the development of AI-ready infrastructure using next-gen Ethernet switches, enabling scalable communication for AI backend networks, with integrated Cisco HyperShield and SD-Access for SASE security services.
+Expert in Zero Trust Network Architecture (ZTNA), securing public and private cloud access. Led SD-Access deployments across 4000+ sites, managing 2.8M devices and generating $2B+ revenue. Pioneered a machine reasoning engine for automated issue resolution and enabled application hosting, including ThousandEyes and FWaaS.
+Served as the Executive Sponsor for multiple 100M+ dollar accounts for key enterprise customers across financial, healthcare, education, retail, airlines, governments, and manufacturing spaces.
+PROFESSIONAL EXPERIENCE
+Cisco Systems, San Jose, CA
+Sr. Director of Engineering – ZTNA, Cloud Security, Network Automation & Analytics Group 			(2022 – Present)
+Developed AI-ready infrastructure with next-gen Ethernet switches for large-scale GPU clusters and integrated AI-driven automation and troubleshooting tools. Scaled SD-Access with Fabric-Based Architecture and implemented Zero Trust and Cloud Security solutions for Enterprise Networks (F500 companies) across on-prem and cloud environments.
+Led the development of AI-ready infrastructure using next-gen Ethernet switches built on Cisco Silicon One ASICs, enabling scalable, non-blocking communication for AI backend networks, with integrated Cisco HyperShield and SD-Access for SASE security services.
+Pioneered and expanded the Machine Reasoning Engine (MRE) by developing an AI networking assistant in the Catalyst Center, automating provisioning, integrating LLM-based predictive troubleshooting, and enabling natural language query interfaces for network controller operations.
+Leveraged AI networking applications using LLMs with Microsoft Copilot to automate code generation, unit tests, and log preprocessing while employing RAG and vector databases for enhanced AI-driven workflows.
+Implemented SDA across 4000+ deployments, managing 2.8M devices and 6M clients, generating $2B+ revenue with a 90% renewal rate. Offerings include on-premises, virtual, and cloud-based solutions serving various industries.
+Spearheaded Network Automation Efforts, including secure edge device onboarding, application-aware routing, centralized monitoring and troubleshooting of VPN tunnels, integration with SASE/CSP providers (Zscaler, AWS, Azure), user-facing application for dynamic management of access policies, as well as building controller-based application.
+Enhanced Digital Experience Monitoring by establishing a high-throughput cloud-based analytics infrastructure (Kafka), diverse data collectors, a comprehensive data lake architecture, front-end applications, APIs, network health visualization tools, and designing an Issues Framework.
+Implemented application hosting on enterprise switches using general-purpose computing for cloud-based services, including deploying ThousandEyes and Firewall as a Service (FWaaS) on network switches, serving 20K+ customers, and conducting 100K+ tests. Achieved a 10% increased renewal rate of advance licenses for Cat9k switches.
+Expanded reach to other domain controllers (WAN and DC), enabling end-to-end security and policy control. Built a unified dashboard enabling customers to operate their Campus, WAN, and DC networks as a single pane of glass for both visibility and network analytics and troubleshooting. 
+Led global teams (150+ total) across the US, India, and Canada, with Director-level reports in each location across testing and development. Established a new team of 25+ in Canada. 
+Director of Engineering – NX Group 									     (2020 – 2022)
+Promoted to lead Engineering for SD-Access, Application Hosting, Cloud Edge, and Network Automation following the launch of the renowned SD-Access product (Intent-Based Networking), leading a team of 100+ across the US and India. 
+Led the implementation of intent-based networking across on-premises and cloud offerings, with SD-Access as the core technology. Automated network management lifecycle, designed secure host connectivity solutions, developed IoT connectivity solutions and enabled the integration of brownfield networks through border network connections.
+Developed key applications for image management, inventory collection, and Day 0 device onboarding. Created a Software Image Management Application enabling the management of network images and receiving compliance. Built LAN Automation application to bring up Layer3 networking infrastructure (Day 0) from a controller dashboard.
+Enabled App Store Architecture on network switches using Docker and Kubernetes as the underlying technology.
+Led a team to build lifecycle management of Cisco and third-party hosted applications on network devices.
+Built and managed an ecosystem of 100+ Apps hosted by third-party companies on network switches managed through a Cisco network controller.
+Led hybrid cloud program for seamless service deployment across on-premises and cloud environments. Architected Visibility & Monitoring services in the cloud and configuration services on-prem to improve SLAs of the network.
+Implemented cloud controller security framework for safe cloud application access. Automated IPSec setup on network devices and developed bootstrap app for remote Day0 switch setup using a cloud-based image server.
+Director, Software Defined Access Group 									     (2015 – 2020)
+Led the development of a controller and platform strategy, transforming Cisco to add a recurring software-based business to its portfolio. Led an engineering team to enhance security features for flagship switches. Pioneered the development of a complete lifecycle management product for enterprise networks, establishing Cisco’s strong presence in the SDN domain.
+Led the development of Intent-Based Networking (IBN) applications on the controller platform.
+Led the development of Common App infrastructure for cluster and node management, microservices, and data services (RabbitMQ, Protobuf). Established cloud telemetry infrastructure for customer deployment feedback. Created PaaS infrastructure and exposed network APIs for external integration. 
+Built a Network Data platform to gather network device information for Analytics/Assurance and Troubleshooting.
+Ericsson, San Jose, CA
+Engineering Manager 											     (2011 – 2015)
+Created a key partnership with Telstra to develop service-chaining use cases jointly with OpenFlow in SP networks.
+Led the Design and Implementation of Ericsson’s Evolved Flow Switch based on OpenFlow 1.3.1 and Segment Routing.
+Designed and implemented a controller component enabling management of OpenFlow switches and various services (Firewall, Content Filtering, DPI).
+Built a team of 25+ engineers and mentored and coached them to deliver Ericsson’s IP-based product.
+Built strategic partnerships with Google, Nicira, Broadcom, and Netlogic to evangelize SDN-based products.
+Technical Leader 											     (2010 – 2011)
+Led an Ericsson team to develop next-generation router architecture, separating control and forwarding plane.
+Integrated Routing protocol stack (OSPF, LDP) as applications on the controller.
+Implemented flow classification and other optimizations on the Tilera Chipset to scale to millions of flows.
+Added OpenFlow support on Marvell’s and Broadcom chipsets.
+PREVIOUS PROFESSIONAL EXPERIENCE
+Sr. Software Engineer - Marconi Communications (Ericsson Inc.), Pittsburgh, PA (2007 - 2009)
+Software Engineer - Marconi Communications (Ericsson Inc.), Pittsburgh, PA (2003 - 2007)
+EDUCATION
+M.S. CS, University of Pittsburgh, Pittsburgh, PA
+B.Tech. CS, IIT-BHU, India

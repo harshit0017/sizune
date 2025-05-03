@@ -1,0 +1,160 @@
+{
+  "candidate_information": {
+    "name": "Satish Somaa",
+    "email": "satish.c.soma@gmail.com",
+    "phone": "(503) 473 6497"
+  },
+  "professional_experience": [
+    {
+      "job_title": "Director of Application Modernization and Development",
+      "company_name": "Cognizant (Capital One Financial Services)",
+      "location": "Chicago, IL",
+      "duration": "Jun 2020 - Present",
+      "key_responsibilities": "Spearheaded Cards Product roadmaps, driving efforts in Application Development, Modernization, and Migration initiatives. Oversaw modernization of Capital One Retail Partnership Cards Platform Programs.",
+      "impact_metrics": [
+        {
+          "impact": "Increased revenue by $10M",
+          "metric": "$10M revenue boost",
+          "context": "Migrated 60% of legacy card functions to cloud platforms, enabling faster product launches."
+        },
+        {
+          "impact": "Reduced AWS cloud costs by 30%",
+          "metric": "30% cost reduction",
+          "context": "Implemented microservices architecture and serverless computing to streamline deployment."
+        },
+        {
+          "impact": "Improved application delivery efficiency by 20%",
+          "metric": "20% efficiency increase",
+          "context": "Oversaw application development, enhancement, and maintenance for credit card products."
+        },
+        {
+          "impact": "Boosted deployment frequency by 60%",
+          "metric": "60% increase in deployment frequency",
+          "context": "Drove the adoption of DevOps and Agile practices."
+        },
+        {
+          "impact": "Achieved 20% improvement in overall metrics",
+          "metric": "20% improvement",
+          "context": "Improved metrics including MTTR and reduced customer-reported incidents."
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "Card Core Modernization",
+          "technologies_used": [
+            "Docker",
+            "ECS",
+            "EKS",
+            "AWS Lambda"
+          ],
+          "outcomes": "Enabled faster product launches and reduced cloud costs.",
+          "impact": "$10M revenue boost and 30% cost reduction",
+          "context": "Migrated legacy systems to modern architecture with API-driven services."
+        },
+        {
+          "project_name": "Data Analytics Platform",
+          "technologies_used": [
+            "AWS S3",
+            "EC2",
+            "Redshift",
+            "Apache Spark"
+          ],
+          "outcomes": "Enhanced reporting and improved decision-making through predictive modeling.",
+          "impact": "Near real-time insights and improved customer behavior analysis",
+          "context": "Implemented a scalable and automated Data Analytics Platform across core banking functions."
+        }
+      ]
+    },
+    {
+      "job_title": "Director of IT Applications",
+      "company_name": "Capgemini (Discover Financial Services)",
+      "location": "Chicago, IL",
+      "duration": "Jun 2018 - Jun 2020",
+      "key_responsibilities": "Implemented business solutions influencing cross-functional teams and utilized Lean-Agile practices.",
+      "impact_metrics": [
+        {
+          "impact": "Reduced BIN usage from 85% to 42%",
+          "metric": "43% reduction in BIN usage",
+          "context": "Developed an automated BIN range allocation system."
+        },
+        {
+          "impact": "Improved accuracy by 50%",
+          "metric": "50% accuracy improvement",
+          "context": "Implemented error-checking algorithms and real-time monitoring."
+        }
+      ]
+    },
+    {
+      "job_title": "Director of Program & Product Management",
+      "company_name": "Capgemini (BNP Paribas)",
+      "location": "Chicago, IL",
+      "duration": "Jan 2017 \u2013 Jun 2018",
+      "key_responsibilities": "Led a team to establish and lead BNP Paribas's Commercial Cards Product, Application, and Quality Assurance teams.",
+      "impact_metrics": [
+        {
+          "impact": "Managed a $65M budget",
+          "metric": "$65M budget management",
+          "context": "Oversaw the evaluation of card products and digital transformation of business functions."
+        }
+      ]
+    },
+    {
+      "job_title": "Senior Manager",
+      "company_name": "Capgemini (Wells Fargo Vendor Finance)",
+      "location": "Chicago, IL",
+      "duration": "Jan 2016 \u2013 Dec 2016",
+      "key_responsibilities": "Managed a $15M budget and led a 35-member integrations team for the GE-Wells Fargo merger.",
+      "impact_metrics": [
+        {
+          "impact": "Achieved a $23M annual cost reduction",
+          "metric": "$23M cost savings",
+          "context": "Streamlined IT infrastructure and optimized operational processes."
+        },
+        {
+          "impact": "Achieved 100% data migration accuracy",
+          "metric": "100% accuracy",
+          "context": "Completed the lift and shift of legacy GE products to Wells Fargo platforms."
+        }
+      ]
+    }
+  ],
+  "leadership_and_team_management": [
+    {
+      "role": "Director of Application Modernization and Development",
+      "scope_of_leadership": "Led an Agile team of 65, expanding from 50 and mentoring senior managers.",
+      "cross_department_collaboration": "Collaborated with banks, merchants, interchange networks, and third-party vendors for card data migration."
+    },
+    {
+      "role": "Senior Manager",
+      "scope_of_leadership": "Led a team of 78 members, including four direct reports. Expanded the team with 20 software engineers and project managers."
+    }
+  ],
+  "technologies_tools_and_methodologies": [
+    {
+      "technologies": [
+        "AWS",
+        "Docker",
+        "ECS",
+        "EKS",
+        "AWS Lambda",
+        "Apache Spark",
+        "Tableau",
+        "Power BI"
+      ],
+      "methodologies": [
+        "Agile",
+        "SAFe",
+        "DevOps",
+        "Lean-Agile",
+        "Kanban",
+        "Waterfall"
+      ]
+    }
+  ],
+  "awards_recognition_and_promotions": [
+    {
+      "recognition": "Certified AWS Solutions Architect",
+      "certification": "Certified Engagement Manager Level 2 by Capgemini University"
+    }
+  ]
+}

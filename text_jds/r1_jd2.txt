@@ -1,0 +1,80 @@
+About the job
+Overview
+
+Draper is an independent, nonprofit research and development company headquartered in Cambridge, MA. The 2,000+ employees of Draper tackle important national challenges with a promise of delivering successful and usable solutions. From military defense and space exploration to biomedical engineering, lives often depend on the solutions we provide. Our multidisciplinary teams of engineers and scientists work in a collaborative environment that inspires the cross-fertilization of ideas necessary for true innovation. For more information about Draper, visit www.draper.com.
+
+Job Description Summary
+
+Reporting to the CIO, the Director of Information Technology will lead the strategic direction and management of Draper’s enterprise digital infrastructure; facilitate information technology across the organization, supporting systems, infrastructure, and platforms; collaborate with internal and external partners; integrate modern administrative systems, and drive digital transformation; oversee customer-focused IT services and manage resources sustainably; chair the Information Technology Governance Committee; budget and resource management. The Director is responsible for the operation of Draper’s on premise and cloud infrastructure, enterprise network, real-time collaboration and user experience. The incumbent in this position will have to tackle multi-faceted challenges requiring a creative mindset to find innovative solutions across the organization. This role will require balancing the technical aspects of the position and the right skill set to integrate Draper’s corporate strategy with IT priorities.
+
+Duties/Responsibilities
+
+Job Description:
+
+Develops and leads the overall IT strategy, ensuring alignment with business goals and government requirements/regulations. Drives innovation and efficiency through flexible, responsive solutions.
+Ensures reliable, secure, and scalable IT systems that meet the needs of the organization.
+Overall responsibility for the development, implementation, and maintenance of IT systems and services that support company programs and business operations.
+Ensures IT systems and services are compliant with Department of Defense (DoD) standards and regulations, including NIST, DFARS, and other applicable requirements.
+Collaborates with cross-functional teams to ensure IT solutions meet business, security, and compliance requirements.
+Partners closely with Security and IT Leadership team to develop technology infrastructure based on business needs.
+Responsible for definition, deployment and update of Draper’s IT infrastructure including data center, enterprise servers and storage, collaboration, networking and telecom components.
+Proactively research and investigate new or improved methodology or technology that will either improve IT customer or IT infrastructure processes, increase profitability, or reduce expenses.
+Establishes and drives measurable goals that are aligned with department and organizational goals to effectively enable the department and organizational missions.
+Plans and forecasts activity within the Information Technology function as indicated by strategic and departmental projects, initiatives, and general direction.
+Provide architectural leadership to IT and Draper at large on all aspects related to infrastructure, engineering, security and IT operations.
+Design and build of IT infrastructure, both on premise and private/public cloud.
+Capacity planning and specifying required system hardware and network connectivity prior to the rollout of new infrastructure initiatives or in support of new applications.
+Collaborate on the integration of physical and application architecture through close teamwork with software architects, application developers and operations teams.
+Provides motivational leadership for direct reports at all levels, from team leads to individual contributors, including performance planning and development support; coaching and mentoring; rewards and recognition; and staff retention to develop a continuous improvement culture.
+Initiates service improvement direction to the Information Security team as a function of integrating customer feedback and driving continuous improvement.
+Coordinate the acquisition, deployment, and refresh of core infrastructure and computing systems to meet the business needs of Draper projects and organizations.
+Accurately manages, explains, and forecasts the financial activity of the department including staffing and resource planning.
+Accurately forecasts future outside purchases and communicates any adjustments as appropriate.
+Actively solicits cross-functional collaboration across individual contributors, teams, overall department.
+Collaborate closely with CISO and Cyber Security team in design, implementation and operations of security controls and technologies to safeguard Draper information assets.
+
+Skills/Abilities
+
+Demonstrated ability to develop plans that meet the architecture/technology needs of the organization while incorporating business priorities, strategies, goals, emerging technologies, industry trends, and economic viability.
+Ability to provide cross-functional leadership to ensure project objectives and deadlines are met.
+Technical hands on experience with core computing and infrastructure components as outlined in the job description.
+Demonstrated ability to collaborate with other members of formal and informal groups in the pursuit of common missions, vision, values and mutual goals.
+Demonstrated ability to be flexible within a variety of changing situations while working with various individuals and groups.
+Posses excellent communication skills to provide clear and business focused (non-technical) communications to all levels within the organization.
+Excellent supervisory and management skills. Demonstrated success in developing, coaching, and mentoring staff in-line with the mission, vision, values, goals, and performance standards of formal and informal teams.
+Experience in architecting and implementing cloud solutions using AWS, Azure or other solutions.
+Demonstrated ability to identify and act upon opportunities for continuous improvement.
+
+Education
+
+Bachelor's degree in Computer Science, Information Technology or related discipline required. Master's or other advanced degree is preferred.
+ITIL, technical certifications (CISSP, MCSE etc.) and Project Management certifications is preferred.
+
+Experience
+
+15 + years of experience in leadership positions with focus on IT infrastructure design and management.
+10+ years program and project management experience, including estimating and forecasting, budget and financial management, staffing / hiring and resource management. 
+
+Additional Job Description
+
+Applicants for this position will be required to obtain and maintain a government security clearance.
+
+Active Final Secret Security clearance is required. Top Secret preferred.
+
+Connect With Draper for Future Opportunities! If you don't find the right posting in our Career Opportunities, you may submit your resume for future consideration.
+
+Job Location - City:
+
+Cambridge
+
+Job Location - State:
+
+Massachusetts
+
+Job Location - Postal Code:
+
+02139-3563
+
+Our work is very important to us, but so is our life outside of work. Draper supports many programs to improve work-life balance including workplace flexibility, employee clubs ranging from photography to yoga, health and finance workshops, off site social events and discounts to local museums and cultural activities. If this specific job opportunity and the chance to work at a nationally renowned R&D innovation company appeals to you, apply now www.draper.com/careers.
+
+Draper is committed to creating an inclusive environment. We understand the value of inclusivity and its impact on a high-performance culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, national origin, veteran status, or genetic information. Draper is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. To request reasonable accommodation, please contact hr@draper.com.

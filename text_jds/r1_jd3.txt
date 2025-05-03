@@ -1,0 +1,80 @@
+About the job
+Tutor Perini Corporation is seeking a Director of Cybersecurity & Infrastructure Services to join our office in Henderson, NV
+
+About Tutor Perini Corporation
+
+Extraordinary Projects, Exceptional Performance
+
+Tutor Perini Corporation is a leading civil, building, and specialty construction company that believes integrity, teamwork, and a collaborative approach are fundamental to our business success.
+
+Extraordinary projects demand a strategic and intelligent approach, finely honed through more than a century of real-world experience. They demand the relentless intensity of people who know the stakes are incredibly high. And they demand a team that understands mutual trust and integrity are necessary to execute massive undertakings on near-impossible deadlines.
+
+From coast to coast, notable projects include The Purple Line (D Line) Extensions in Los Angeles, SR 99 Viaduct replacement tunnel in Seattle, East Side Access projects and the Hudson Yards Platform in New York, Central Subway Third Street Light Rail in San Francisco, and multiple airport expansions and bridge projects.
+
+Extraordinary Projects need Exceptional Talent
+
+Description
+
+The Director of Cybersecurity and Infrastructure Services is a critical leadership role responsible for the overall planning, implementation, and management of the organization's cybersecurity strategy and IT infrastructure. This includes protecting sensitive information, ensuring business continuity, and maintaining a secure and efficient technology environment. The Director will lead a team of cybersecurity and IT infrastructure professionals, providing guidance, mentorship, and development opportunities.
+
+Strategic Leadership And Vision
+
+Develop and execute an enterprise data strategy that aligns with Tutor Perini’s long-term business objectives and market positioning.
+Lead the company’s Cybersecurity and Infrastructure strategy, focusing on enterprise cybersecurity and infrastructure solutions, standards and automation to enhance operational efficiency, reduce costs, and improve project timelines.
+Build partnerships with executives, divisional leaders, and project managers to ensure cybersecurity and infrastructure solutions support strategic goals across all levels of the organization.
+
+Cybersecurity And Infrastructure Strategy & Governance
+
+Oversee the design and implementation of robust platforms to ensure data quality, accessibility, consistency, and privacy.
+Develop and implement a comprehensive cybersecurity strategy aligned with industry’s best practices and regulatory requirements
+Lead the organization's incident response team, ensuring preparedness for and effective response to cybersecurity incidents.
+Conduct regular security assessments, vulnerability scans, and penetration testing to identify and mitigate risks.
+Oversee the implementation and management of security tools and technologies, including firewalls, intrusion detection/prevention systems, endpoint security, and data loss prevention solutions.
+Stay abreast of emerging cybersecurity threats and vulnerabilities, proactively adapting security measures to address new challenges.
+Assists in the evaluation and creation of hardware standards for all aspects of the IT infrastructure and Security.
+Oversee the design, implementation, and maintenance of the organization's IT infrastructure, including network infrastructure, servers, storage, cloud services, and end-user computing.
+Ensure the availability, reliability, and performance of IT systems to support business operations.
+
+Operational Excellence
+
+Drive the implementation of data-driven processes across construction, procurement, and engineering teams to improve decision-making and operational efficiency.
+Identify opportunities for process automation and optimization using AI and robotic process automation (RPA) tools to enhance project delivery and cost management.
+Ensure that cybersecurity and infrastructure solutions deliver measurable value by monitoring key performance indicators (KPIs) and aligning with industry benchmarks.
+
+Team Leadership & Development
+
+Build and lead a high-performing team of cybersecurity, networking, identity and system engineers and administrators to execute the company’s cybersecurity and infrastructure strategy.
+Support a data-driven culture across the enterprise, ensuring that employees at all levels understand the value of data and are empowered to make informed decisions.
+Develop a talent pipeline by mentoring and training IT professionals to support Tutor Perini’s growth and innovation goals.
+
+Requirements
+
+10+ years of experience in IT, with at least 5 years in a cybersecurity leadership role.
+Strong understanding of cybersecurity frameworks, standards, and best practices.
+Proven ability to develop and implement cybersecurity strategies.
+Five (5) years or more of experience managing IT infrastructure, including network infrastructure, servers, storage, and cloud services
+Two (2) years or more of experience administering a Microsoft Office 365 tenant account, including Exchange Online and Azure AD.
+Experience managing budgets and allocating resources effectively to support cybersecurity and IT infrastructure initiatives.
+Excellent leadership, communication, and interpersonal skills.
+Proven ability to lead and mentor a high-performing cybersecurity and IT infrastructure team of [approximate size] professionals.
+Experience with performance management, including setting goals, conducting performance reviews, and providing constructive feedback.
+Proven track record of implementing cybersecurity and infrastructure solutions within large-scale organizations, preferably within construction, engineering, or a related industry.
+Experience managing vendors, contracts, and cost accounts over $5M.
+Deep understanding of enterprise data governance, compliance, and security protocols.
+Exceptional leadership, communication, and collaboration skills, with a proven ability to influence stakeholders at all levels.
+Ability to translate complex technology concepts into strategic business opportunities, fostering innovation and competitive advantage.
+Strong knowledge of construction industry trends, with the ability to apply IT solutions to project management, supply chain logistics, and construction technologies.
+A forward-thinking, strategic mindset with a passion for leveraging cutting-edge technologies to drive business transformation.
+A commitment to fostering innovation while delivering measurable business results.
+Ability to navigate complex stakeholder environments, building trust and collaboration across technical and non-technical teams.
+
+Preferred Skills
+
+Bachelor’s or master’s degree in computer science, Information Systems, or a related field
+Industry certifications such as CISSP, CISM, or CCNP Security are highly desirable.
+Experience supporting a global infrastructure in a large multi-site environment.
+Experience working in a 24/7 support environment.
+
+Tutor Perini builds extraordinary projects, and we need exceptional talent. Join us, and together we will build the future.
+
+Equal Opportunity Employer

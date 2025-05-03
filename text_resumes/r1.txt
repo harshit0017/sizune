@@ -1,0 +1,54 @@
+KEITH L. OUFNAC
+New Orleans,LA (Open to Relocate) • koufnac@yahoo.com • linkedin.com/in/keith-oufnac-5750609 • (504) 920-2635
+
+Vice President, Information Technology
+CAREER SUMMARY
+Information Technology Leader with 20+ years of experience driving digital transformation, IT strategy, and cybersecurity across defense and insurance industries. Skilled at aligning IT strategy with business goals, leading infrastructure modernization while maintaining robust cybersecurity, and seamlessly integrating technology systems post-acquisition.
+Expert in ensuring compliance with stringent regulations such as DIBCAC, NIST 800-171, PCI, SOX, and HIPAA while optimizing operational efficiency and enabling growth.
+Digital Transformation: Spearheaded Bollinger Shipyards' evolution from a small family-run business to a compliant, security-conscious leader in the Defense Industrial Base (DIB), ensuring compliance with defense regulations and enabling rapid growth.
+Executive Collaboration: Partnered closely with the CEO, COO, and department VPs to demonstrate the critical need for digital transformation at Bollinger Shipyards. Presented data-driven insights, aligning technology investments with business growth objectives, successfully influencing executive buy-in for key initiatives, enhancing operational efficiency, improved security, and long-term scalability.
+Infrastructure Modernization: Led IT initiatives across 16 locations at Bollinger Shipyards, modernized infrastructure, and successfully passed the company’s first DIBCAC audit. Directed the migration from on-premises to the cloud for 2,000+ users, reducing infrastructure costs by 20% and improving disaster recovery.
+Cybersecurity Leadership: Served as Regional Information Security Officer at Marsh & McLennan, collaborating with the Global CISO committee on security policies and vendor onboarding. Established a cybersecurity team at Bollinger, strengthening the company’s defense against cyber threats and securing Bollinger's position as a trusted defense contractor.
+M&A Integration: Led IT due diligence, security compliance, and application deployment for multiple (25) agency acquisitions at Marsh & McLennan. Led the IT integration for a billion-dollar acquisition at Bollinger, doubling the company’s size and adding two shipyards and 1,100 employees. 
+People Leadership: Led teams of 25+ across cybersecurity, IT infrastructure, and application development, mentoring staff and fostering a high-performance environment. Drove cultural shifts toward security awareness and improved IT efficiency across diverse teams.
+PROFESSIONAL EXPERIENCE
+Bollinger Shipyards, United States          	             		 		 		     	     (May 2022 - Present)	
+An American constructor of ships, workboats, and patrol vessels with thirteen shipyards and forty drydocks.
+Vice President, Information Technology
+Reporting to the CEO, led a comprehensive digital transformation, evolving the company from a small, family-run operation into an industry-compliant, security-conscious leader in the Defense Industrial Base (DIB). Managed a 16-location network supporting 2K+ users and 5K+ colleagues. Spearheaded infrastructure upgrades, enhanced cybersecurity, and successfully passed the company’s first DIBCAC audit. Delivered strategic IT leadership, improving operational efficiency and supporting Bollinger’s rapid growth.
+Directed a full network re-architecture, upgrading from outdated Cisco to Cisco Meraki solutions, including VLAN segmentation for compliance with Department of Defense regulations. Improved network performance by 30% and ensured compliance, successfully passing DIBCAC audits with no significant issues.
+Formed a cybersecurity team and implemented key security measures, including MFA, Fortinet firewalls, and CrowdStrike Falcon for real-time threat monitoring. Strengthened the company’s defense against cyber threats and ensured compliance with NIST 800-171 standards, positioning Bollinger as a trusted defense contractor.
+Managed the IT integration for a major acquisition ($1B), doubling the company's size, adding two shipyards and 1,100 employees. Led due diligence and post-acquisition IT integration, unifying systems and streamlining operations with minimal disruption.
+Migrated Bollinger to Azure Gov Cloud, reducing infrastructure costs by 20%, improving disaster recovery capabilities, and ensuring business continuity. Enhanced system uptime (15%) and scalability for the company’s coastal locations prone to natural disasters.
+Led the migration from on-premises Exchange 2010 to Microsoft 365 GCCH cloud, enabling secure communication for 2,000+ users across 16 locations, ensuring compliance with DOD and ITAR requirements, and improving collaboration and data accessibility.
+Unified the company’s phone systems across 20+ locations with a Zoom-based solution, improving communication efficiency and reducing telephony costs by 15%.
+Led the upgrade of legacy Oracle EBS systems to Oracle Fusion, modernizing finance, manufacturing, procurement, and HR systems and reducing system downtime by 25%.
+Established a comprehensive change management program for IT upgrades, minimizing disruption to business operations and ensuring all projects were delivered on time and under budget.
+Fostered a security-first culture by training executives and employees on cybersecurity best practices, transforming the organization from a reactive to a proactive security approach and reducing risks significantly.
+Managed relationships with third-party vendors, ensuring compliance with NIST 800-171 and ITAR regulations while also optimizing IT budgets and aligning technology capabilities with business needs.
+Marsh & McLennan Agency, Dallas, TX	          	             		 		 		   (Oct 2018 - May 2022)	
+Providing insurance, health & benefits, retirement, and wealth solutions for businesses and individuals.
+Chief Information Officer, Southwest Region
+Brought in by the CEO following MMA’s acquisition of Eustis. Served as CIO for MMA SW and MMA PCS, overseeing vendor relations, security, and compliance reviews and managing 20 direct reports across cybersecurity, application development, infrastructure, operations, and support. Led IT due diligence and integration for mergers and acquisitions (M&A), overseeing two agencies per month.
+M&A: Led IT due diligence, security compliance, and application deployment for multiple (25) agency acquisitions. Managed mergers, aligning acquired teams with corporate goals and ensuring smooth IT and business transitions. Oversaw vendor contracts, security reviews, and compliance with PCI DDS, SOX, GDPR, CCCPA, PIPEDA, and HIPAA.
+Served as Regional Information Security Officer, collaborating with the Global CISO committee on security policies and vendor onboarding. Implemented Zscaler for offsite connectivity and tuned CrowdStrike for real-time monitoring, enhancing security while maintaining a smooth user experience.
+Led cloud migration initiatives for business continuity using AWS and Azure, replacing on-premise tools and ensuring continuity of operations. 
+Led application portfolio management, overseeing vendor contracts, security requirements, and end-user needs. Managed cloud-based applications with AWS CloudWatch and implemented ServiceNow for ITSM, transitioning from an on-prem to a cloud-based solution to streamline IT workflows.
+Led the launch of EPIC application, improving individual efficiency by 20%. Developed a mobile app for managing employee benefits, improving customer efficiency while ensuring compliance with PII regulations.
+Collaborated with COO, CEO, Regional Vice Presidents and sales teams on custom Salesforce development, improving customer and employee management processes. 
+Effectively communicated IT initiatives, aligning IT, sales, and management teams during M&A transitions. Ensured smooth collaboration and support for business and IT requests across the organization.
+Eustis Insurance & Benefits (Now Marsh & McLennan Agency), New Orleans, LA 		     	    (Feb 2000 - Oct 2018)	
+Executive Vice President, Information Technology
+Recruited by the President to lead IT for a growing organization, expanding from 50 to 200 employees across multiple sites. Directed all aspects of IT infrastructure, security, and operations, and scaled IT systems to support rapid growth. Promoted to partner before the company's acquisition by Marsh.
+End-to-End IT Management: Built and managed all facets of IT, including network infrastructure, end-user support, security, and data management, as the sole IT professional for a growing organization.
+Built and mentored a help desk team, fostering a high-performance environment and ensuring reliable server and firewall maintenance across the organization.
+Transformed the company’s IT infrastructure from a 50-person BNC hub-connected network to a multi-site organization with 200 users, owning network and security responsibilities.
+Spearheaded disaster recovery efforts, leading the entire network restoration of four offices following Hurricane Katrina, ensuring business continuity and minimal downtime.
+Optimized processes and implemented PCI and SOX-compliant workflows, improving colleague efficiency and enhancing department performance through clarified procedures and audits.
+Successfully maximized the IT operating budget, driving operational efficiency while reducing EBITA.
+EDUCATION
+Bachelor of Science in Computer Science, University of New Orleans, New Orleans, LA
+CERTIFICATIONS
+Certified Information Systems Security Professional, ISC2
+Microsoft Certified Systems Engineer - Server Infrastructure, Microsoft
+Citrix Certified Administrator, Citrix

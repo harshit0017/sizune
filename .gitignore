@@ -1,0 +1,115 @@
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+
+# === macOS-specific ===
+.AppleDouble
+.LSOverride
+*.icloud
+.Spotlight-V100
+.Trashes
+__MACOSX/
+
+# === Linux-specific ===
+*~
+.cache
+.config
+.local
+
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.pnpm-debug.log
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# === JetBrains IDEs ===
+.idea/
+*.iml
+
+# === VSCode ===
+.vscode/
+.history/
+
+# === Logs ===
+logs/
+*.log
+*.log.*
+
+# === Environment ===
+.env
+.env.*
+!.env.example
+
+# === Testing ===
+coverage/
+.nyc_output/
+jest-test-results.json
+
+# === Build artifacts ===
+build/
+dist/
+out/
+tmp/
+temp/
+
+# === Binaries ===
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.o
+*.a
+*.obj
+
+# === Archives and Compressed files ===
+*.tar
+*.gz
+*.zip
+*.rar
+*.7z
+
+# === Database ===
+*.sqlite
+*.sqlite3
+*.db
+
+# === Others ===
+*.swp
+*.swo
+*.bak
+*.tmp
+*.pid
+
+# === Firebase / GCP ===
+.firebaserc
+.firebase/
+.firebase-debug.log
+google-services.json
+firebase-debug.log
