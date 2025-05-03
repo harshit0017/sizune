@@ -113,3 +113,4 @@ temp/
 .firebase-debug.log
 google-services.json
 firebase-debug.log
+.env
