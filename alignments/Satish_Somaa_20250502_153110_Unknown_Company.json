@@ -1,0 +1,46 @@
+{
+  "job_title": "Director of Cybersecurity & Infrastructure Services",
+  "company_name": "Tutor Perini Corporation",
+  "candidate_name": "Satish Somaa",
+  "primary_objective_alignment": {
+    "job_specific_requirements": "The role demands the development and execution of an enterprise data strategy and leading the company's cybersecurity and infrastructure strategy to enhance operational efficiency, reduce costs, and improve project timelines.",
+    "candidate_alignment": "Satish Somaa has a proven track record of leading application modernization and development initiatives at Cognizant, where he increased revenue by $10M and reduced AWS cloud costs by 30% through strategic cloud migration and modernization efforts. His experience aligns with the need to drive data-driven processes and improve operational efficiency."
+  },
+  "high_level_alignment": [
+    {
+      "alignment_type": "Enterprise Data Strategy Development",
+      "candidate_experience": "Led the modernization of Capital One Retail Partnership Cards Platform Programs, resulting in a $10M revenue boost by migrating 60% of legacy card functions to cloud platforms."
+    },
+    {
+      "alignment_type": "Cybersecurity and Infrastructure Leadership",
+      "candidate_experience": "Managed a $15M budget and led a 35-member integrations team for the GE-Wells Fargo merger, achieving a $23M annual cost reduction through streamlined IT infrastructure."
+    },
+    {
+      "alignment_type": "Cost Reduction and Operational Efficiency",
+      "candidate_experience": "Reduced AWS cloud costs by 30% and improved application delivery efficiency by 20% through the implementation of microservices architecture and serverless computing."
+    }
+  ],
+  "environment_fit": {
+    "company_size": "Large Enterprise",
+    "industry": "Financial Services",
+    "customer_type": "B2B",
+    "candidate_experience": "Satish Somaa has extensive experience in large-scale financial services organizations, leading IT and application modernization projects that align with the operational scale and strategic goals of Tutor Perini Corporation."
+  },
+  "alignment_evaluation": {
+    "evaluation_summary": "Satish Somaa has demonstrated his ability to lead large-scale IT and application modernization projects, achieving significant cost reductions and operational efficiencies. His experience in managing budgets over $15M and leading cross-functional teams in complex environments positions him well to drive Tutor Perini Corporation's cybersecurity and infrastructure strategy, ensuring enhanced project delivery and cost management."
+  },
+  "candidate_strengths": [
+    {
+      "strength": "Strategic IT Leadership",
+      "candidate_experience": "Directed application modernization initiatives at Cognizant, resulting in a $10M revenue increase and 30% reduction in cloud costs."
+    },
+    {
+      "strength": "Budget Management",
+      "candidate_experience": "Managed a $65M budget at Capgemini, overseeing the evaluation of card products and digital transformation of business functions."
+    },
+    {
+      "strength": "Operational Efficiency",
+      "candidate_experience": "Achieved a $23M annual cost reduction at Wells Fargo by streamlining IT infrastructure and optimizing operational processes."
+    }
+  ]
+}

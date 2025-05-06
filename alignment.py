@@ -206,8 +206,8 @@ def process_alignment(resume_path, jd_path, feedback=None, previous_alignment=No
 # Example usage in a standalone context
 if __name__ == "__main__":
     # Paths to test files
-    jd_path = "job_descriptions/Draper_20250503_001231.json"
-    resume_path = "resumes/Keith_L_Oufnac.json"
+    jd_path = "job_descriptions/Tutor_Perini_Corporation_20250502_151544.json"
+    resume_path = "resumes/Satish_Somaa_20250502_153110.json"
     
     # Generate initial alignment
     alignment,path = process_alignment(resume_path, jd_path)

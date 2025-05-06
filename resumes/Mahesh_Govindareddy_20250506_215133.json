@@ -1,0 +1,133 @@
+{
+  "candidate_information": {
+    "name": "Mahesh Govindareddy",
+    "email": "mahesh.corning@gmail.com",
+    "phone": "607-542-9081"
+  },
+  "professional_experience": [
+    {
+      "job_title": "Global Applications Engineering Manager",
+      "company_name": "Corning Inc.",
+      "location": "Corning, NY",
+      "duration": "Aug 2021 \u2013 Present",
+      "key_responsibilities": "Lead customer interaction for the largest OEM customer in North America, manage techno-commercial aspects of Trucking OEM and non-road business, oversee product definition, specifications, and supply chain strategies.",
+      "impact_metrics": [
+        {
+          "impact": "Generated $150M+ globally from DC LP particulate filter expansion",
+          "metric": "$150M+ revenue",
+          "context": "Expanded the DC LP particulate filter to on-road markets."
+        },
+        {
+          "impact": "Recovered $25M in lost business",
+          "metric": "$25M revenue recovery",
+          "context": "Collaborated with ceramic scientists to optimize ash capacity in diesel particulate filters."
+        },
+        {
+          "impact": "Secured $25M per year in additional business",
+          "metric": "$25M annual revenue",
+          "context": "Introduced cost-effective cordierite material, replacing a more expensive competitor's product."
+        },
+        {
+          "impact": "Added $75M in annual revenue",
+          "metric": "$75M annual revenue",
+          "context": "Designed and launched products for China and India VI regulations."
+        },
+        {
+          "impact": "Maintained supplier scores above 80% globally",
+          "metric": "80%+ supplier scores",
+          "context": "Managed high-level customer escalations and strategy execution."
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "DC LP Particulate Filter Expansion",
+          "technologies_used": [
+            "Ceramic Science"
+          ],
+          "outcomes": "Generated $150M+ globally",
+          "impact": "$150M+ revenue",
+          "context": "Expanded the DC LP particulate filter to on-road markets."
+        }
+      ]
+    },
+    {
+      "job_title": "Systems Engineering & Regional Technology Manager",
+      "company_name": "Corning Inc.",
+      "location": "Corning, NY",
+      "duration": "Nov 2016 \u2013 Aug 2021",
+      "key_responsibilities": "Led a team of systems engineers, managed 24x7 engine test facility operations, ensured compliance with emissions regulations, and managed customer relationships.",
+      "impact_metrics": [
+        {
+          "impact": "Increased heavy-duty supply from $400M to $600M",
+          "metric": "$200M revenue growth",
+          "context": "Defined and communicated product value propositions to customers."
+        },
+        {
+          "impact": "Generated $5M annually from DC LP development",
+          "metric": "$5M annual revenue",
+          "context": "Co-invented DC LP and led the development of the DC LP particulate filter."
+        }
+      ],
+      "projects": [
+        {
+          "project_name": "DC LP Particulate Filter Development",
+          "technologies_used": [
+            "Diesel Particulate Filters"
+          ],
+          "outcomes": "Generated $5M annually",
+          "impact": "$5M annual revenue",
+          "context": "Co-invented and led the development of the DC LP particulate filter."
+        }
+      ]
+    },
+    {
+      "job_title": "Systems Engineering Leader/Systems Engineer",
+      "company_name": "Corning Inc.",
+      "location": "Corning, NY",
+      "duration": "Mar 2010 \u2013 Nov 2016",
+      "key_responsibilities": "Led engine and vehicle testing, drove product development and process optimization, and ensured emissions reduction technology deployment.",
+      "impact_metrics": [],
+      "projects": []
+    },
+    {
+      "job_title": "Applications Engineer",
+      "company_name": "HUSS, LLC",
+      "location": "Location not specified",
+      "duration": "Jan 2009 \u2013 Feb 2010",
+      "key_responsibilities": "Responsibilities not specified.",
+      "impact_metrics": [],
+      "projects": []
+    },
+    {
+      "job_title": "Research Planning Engineer",
+      "company_name": "ORYXE Energy International, Inc",
+      "location": "Location not specified",
+      "duration": "Aug 2006 \u2013 Dec 2008",
+      "key_responsibilities": "Responsibilities not specified.",
+      "impact_metrics": [],
+      "projects": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science",
+      "field": "Mechanical Engineering",
+      "institution": "West Virginia University",
+      "location": "Morgantown, WV, USA"
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "field": "Mechanical Engineering",
+      "institution": "Bangalore University, UVCE",
+      "location": "Bangalore, India"
+    }
+  ],
+  "publications_and_patents": [
+    {
+      "publication": "Advanced Diesel Particulate Filter Technology and Robust BSVI Solutions: SAE Paper: 2017-26-0116"
+    },
+    {
+      "patent": "WO2022216658A1: Exhaust Treatment Method And Apparatus Having Particulate Filters And SCR Application"
+    }
+  ]
+}
