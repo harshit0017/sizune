@@ -258,7 +258,7 @@ def edit_mail_content(mail_content):
 def main():
     # Sidebar for navigation and status
     with st.sidebar:
-        st.image("https://img.icons8.com/color/96/000000/document-matching.png", width=100)
+        # st.image("https://img.icons8.com/color/96/000000/document-matching.png", width=100)
         st.title("Navigation")
         
         # Display current step
@@ -286,49 +286,46 @@ def main():
                 """)
     
     # Main content
-    st.title("Resume and Job Description Alignment Tool")
+    st.title("Mail Generation Tool")
     
     # Use session state to track the current step and store data
     if 'step' not in st.session_state:
         st.session_state.step = 1
     
-    # Step 1: File Upload
+    # Step 1: Text Input
     if st.session_state.step == 1:
-        st.header("Step 1: Upload Files")
+        st.header("Step 1: Enter Information")
         
         # Create two columns for visual balance
         col1, col2 = st.columns(2)
         
         with col1:
             st.markdown("### Resume")
-            uploaded_resume = st.file_uploader("Upload Resume", type=["txt", "pdf"])
-            if uploaded_resume:
-                st.success(f"Uploaded: {uploaded_resume.name}")
-                st.session_state.uploaded_resume = uploaded_resume
+            resume_text = st.text_area("Paste your resume text here", height=300)
+            if resume_text:
+                st.success("Resume text received")
+                st.session_state.resume_text = resume_text
         
         with col2:
             st.markdown("### Job Description")
-            uploaded_jd = st.file_uploader("Upload Job Description", type=["txt", "pdf"])
-            if uploaded_jd:
-                st.success(f"Uploaded: {uploaded_jd.name}")
-                st.session_state.uploaded_jd = uploaded_jd
+            jd_text = st.text_area("Paste the job description text here", height=300)
+            if jd_text:
+                st.success("Job description text received")
+                st.session_state.jd_text = jd_text
         
-        # Process button - only enabled when both files are uploaded
-        if 'uploaded_resume' in st.session_state and 'uploaded_jd' in st.session_state:
-            if st.button("Process Files", key="process_files_btn"):
-                with st.spinner("Processing files and generating extracts..."):
-                    resume_text = extract_text_from_file(st.session_state.uploaded_resume)
-                    jd_text = extract_text_from_file(st.session_state.uploaded_jd)
-                    
-                    # Call extract functions
+        # Process button - only enabled when both text areas have content
+        if resume_text and jd_text:
+            if st.button("Process Information", key="process_texts_btn"):
+                with st.spinner("Processing information and generating extracts..."):
+                    # Call extract functions directly with the text
                     st.session_state.resume_data, st.session_state.resume_path = generate_detailed_resume(resume_text)
                     st.session_state.jd_data, st.session_state.jd_path = generate_detailed_jd(jd_text)
                     
                     st.session_state.step = 2
                     st.rerun()
         else:
-            st.info("Please upload both resume and job description files to continue.")
-
+            st.info("Please enter both resume and job description texts, then type 'confirm' to continue.")
+            
     # Step 2: Display extracted data and generate alignment
     elif st.session_state.step == 2:
         st.header("Step 2: Review Extracted Data")

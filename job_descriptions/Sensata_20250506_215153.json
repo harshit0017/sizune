@@ -1,0 +1,94 @@
+{
+  "company_overview": {
+    "company_name": "Sensata",
+    "industry": "Technology/Engineering",
+    "company_description": "Sensata is a company focused on developing safety and mission-critical products through mechanical design and engineering.",
+    "company_values": [
+      "Collaboration",
+      "Innovation",
+      "Integrity",
+      "Mutual respect"
+    ]
+  },
+  "critical_alignment_points": {
+    "business_objectives": [
+      {
+        "objective": "Achieve outlined goals to meet customer requirements for design performance, quality, and cost.",
+        "importance_indicator": "Central to the role's responsibilities and mentioned in the job overview.",
+        "context": "Directly impacts customer satisfaction and business success."
+      }
+    ],
+    "must_have_skills": [
+      {
+        "skill": "Advanced understanding of mechanical engineering principles",
+        "importance_indicator": "Specifically mentioned as critical for design and manufacturability.",
+        "context": "Essential for leading design and development of components."
+      },
+      {
+        "skill": "Expertise in continuous improvement and problem-solving tools",
+        "importance_indicator": "Highlighted as necessary for optimizing product quality and cost.",
+        "context": "Supports cost reduction and quality improvement initiatives."
+      },
+      {
+        "skill": "Strong communication skills",
+        "importance_indicator": "Emphasized for effective collaboration and presentations.",
+        "context": "Necessary for managing team and customer interactions."
+      }
+    ],
+    "experience_differentiators": [
+      {
+        "area": "Managing a team of engineers",
+        "importance_indicator": "Central to the role's responsibilities.",
+        "context": "Involves leading a team to meet design and customer requirements."
+      },
+      {
+        "area": "Experience with design prototype builds and production validation",
+        "importance_indicator": "Specifically mentioned in responsibilities.",
+        "context": "Critical for ensuring product readiness and manufacturability."
+      }
+    ],
+    "impact_expectations": [
+      {
+        "metric": "Improved quality and performance related to engineering design",
+        "importance_indicator": "Directly linked to business objectives.",
+        "context": "Measures success in meeting customer and business needs."
+      }
+    ],
+    "operational_scale": {
+      "team_size": "Manages a team of engineers",
+      "budget_responsibility": "Involves cost reduction activities",
+      "geographic_scope": "Global coverage implied through cross-functional and cross-cultural collaboration",
+      "customer_impact": "Direct interaction with customers to meet their specifications and expectations"
+    },
+    "key_cultural_elements": [
+      {
+        "trait": "Collaboration",
+        "importance_indicator": "Highlighted in the 'SmarterTogether' section.",
+        "context": "Essential for working across functions, countries, and cultures."
+      },
+      {
+        "trait": "Integrity",
+        "importance_indicator": "Listed as a strong personal and professional value.",
+        "context": "Critical for maintaining ethical standards and trust."
+      }
+    ]
+  },
+  "role_summary": {
+    "job_title": "Mechanical Design Engineer Manager",
+    "department": "Engineering",
+    "level": "Manager",
+    "primary_function": "Lead a team of engineers to design and develop mechanically oriented components for safety and mission-critical products."
+  },
+  "secondary_requirements": {
+    "technical_skills": [
+      "Proficient in Microsoft Office programs"
+    ],
+    "domain_knowledge": [
+      "Understanding of market and implications for business"
+    ],
+    "soft_skills": [
+      "Strong organization, planning and time management skills",
+      "Strong interpersonal & collaboration skills"
+    ]
+  }
+}
