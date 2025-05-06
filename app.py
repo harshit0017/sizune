@@ -298,10 +298,15 @@ def main():
         
         # Create two columns for visual balance
         col1, col2 = st.columns(2)
-        
+  
         with col1:
             st.markdown("### Resume")
-            resume_text = st.text_area("Paste your resume text here", height=300)
+            uploaded_resume = st.file_uploader("Upload Resume", type=["txt", "pdf"])
+            resume_text=""
+            if uploaded_resume:
+                st.success(f"Uploaded: {uploaded_resume.name}")
+                st.session_state.uploaded_resume = uploaded_resume
+                resume_text = extract_text_from_file(st.session_state.uploaded_resume)
             if resume_text:
                 st.success("Resume text received")
                 st.session_state.resume_text = resume_text
